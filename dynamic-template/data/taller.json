@@ -1,50 +1,50 @@
 [
   {
     "width": "252",
-    "thmub": "images/thumbs/69.jpg",
-    "full": "images/thumbs/69.jpg",
+    "thumb": "/static/images/thumbs/69.jpg",
+    "full": "/static/images/thumbs/69.jpg",
     "desc": ""
   },
   {
     "width": "300",
-    "thmub": "images/thumbs/70.jpg",
-    "full": "images/thumbs/70.jpg",
+    "thumb": "/static/images/thumbs/70.jpg",
+    "full": "/static/images/thumbs/70.jpg",
     "desc": ""
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/71.jpg",
-    "full": "images/thumbs/71.jpg",
+    "thumb": "/static/images/thumbs/71.jpg",
+    "full": "/static/images/thumbs/71.jpg",
     "desc": ""
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/72.jpg",
-    "full": "images/thumbs/72.jpg",
+    "thumb": "/static/images/thumbs/72.jpg",
+    "full": "/static/images/thumbs/72.jpg",
     "desc": ""
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/73.jpg",
-    "full": "images/thumbs/73.jpg",
+    "thumb": "/static/images/thumbs/73.jpg",
+    "full": "/static/images/thumbs/73.jpg",
     "desc": ""
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/74.jpg",
-    "full": "images/thumbs/74.jpg",
+    "thumb": "/static/images/thumbs/74.jpg",
+    "full": "/static/images/thumbs/74.jpg",
     "desc": ""
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/75.jpg",
-    "full": "images/thumbs/75.jpg",
+    "thumb": "/static/images/thumbs/75.jpg",
+    "full": "/static/images/thumbs/75.jpg",
     "desc": ""
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/76.jpg",
-    "full": "images/thumbs/76.jpg",
+    "thumb": "/static/images/thumbs/76.jpg",
+    "full": "/static/images/thumbs/76.jpg",
     "desc": ""
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "width": "232",
-    "thmub": "images/thumbs/13.jpg",
-    "full": "images/thumbs/13.jpg",
+    "thumb": "/static/images/thumbs/13.jpg",
+    "full": "/static/images/thumbs/13.jpg",
     "desc": "\"Fuente\" || 120 X 120 cm || Acrílico"
   },
   {
     "width": "352",
-    "thmub": "images/thumbs/15.jpg",
-    "full": "images/thumbs/15.jpg",
+    "thumb": "/static/images/thumbs/15.jpg",
+    "full": "/static/images/thumbs/15.jpg",
     "desc": "\"Traición\" || 80 X 70 cm || Acrílico"
   },
   {
     "width": "348",
-    "thmub": "images/thumbs/16.jpg",
-    "full": "images/thumbs/16.jpg",
+    "thumb": "/static/images/thumbs/16.jpg",
+    "full": "/static/images/thumbs/16.jpg",
     "desc": "\"Visión nocturna\" || 80 X 70 cm || Acrílico"
   },
   {
     "width": "352",
-    "thmub": "images/thumbs/20.jpg",
-    "full": "images/thumbs/20.jpg",
+    "thumb": "/static/images/thumbs/20.jpg",
+    "full": "/static/images/thumbs/20.jpg",
     "desc": "\"Kinkaku-ji\" || 240 X 215 cm || Acrílico"
   },
   {
     "width": "348",
-    "thmub": "images/thumbs/22.jpg",
-    "full": "images/thumbs/22.jpg",
+    "thumb": "/static/images/thumbs/22.jpg",
+    "full": "/static/images/thumbs/22.jpg",
     "desc": "\"Las torres gemelas\" || 80 X 70 cm || Acrílico"
   },
   {
     "width": "352",
-    "thmub": "images/thumbs/19.jpg",
-    "full": "images/thumbs/19.jpg",
+    "thumb": "/static/images/thumbs/19.jpg",
+    "full": "/static/images/thumbs/19.jpg",
     "desc": "\"La última cena\" || 120 X 90 cm || Óleo"
   },
   {
     "width": "348",
-    "thmub": "images/thumbs/30.jpg",
-    "full": "images/thumbs/30.jpg",
+    "thumb": "/static/images/thumbs/30.jpg",
+    "full": "/static/images/thumbs/30.jpg",
     "desc": "\"Chone\" || 90 X 75 cm || Óleo"
   },
   {
     "width": "352",
-    "thmub": "images/thumbs/65.jpg",
-    "full": "images/thumbs/65.jpg",
+    "thumb": "/static/images/thumbs/65.jpg",
+    "full": "/static/images/thumbs/65.jpg",
     "desc": "\"La mujer escarlata\" || 80 X 70 cm || Acrílico"
   },
   {
     "width": "348",
-    "thmub": "images/thumbs/66.jpg",
-    "full": "images/thumbs/66.jpg",
+    "thumb": "/static/images/thumbs/66.jpg",
+    "full": "/static/images/thumbs/66.jpg",
     "desc": "\"Autorretrato\" || 80 X 70 cm || Óleo"
   },
   {
     "width": "352",
-    "thmub": "images/thumbs/67.jpg",
-    "full": "images/thumbs/67.jpg",
+    "thumb": "/static/images/thumbs/67.jpg",
+    "full": "/static/images/thumbs/67.jpg",
     "desc": "\"Obsequio a la amistad\" 80 X 70 cm || Acrílico"
   },
   {
     "width": "348",
-    "thmub": "images/thumbs/68.jpg",
-    "full": "images/thumbs/68.jpg",
+    "thumb": "/static/images/thumbs/68.jpg",
+    "full": "/static/images/thumbs/68.jpg",
     "desc": "\"Spondylus\" || 350 X 200 cm || Acrílico"
   },
   {
     "width": "232",
-    "thmub": "images/thumbs/23.jpg",
-    "full": "images/thumbs/23.jpg",
+    "thumb": "/static/images/thumbs/23.jpg",
+    "full": "/static/images/thumbs/23.jpg",
     "desc": "\"Castidad\" || 80 X 70 cm || Acrílico"
   },
   {
     "width": "348",
-    "thmub": "images/thumbs/25.jpg",
-    "full": "images/thumbs/25.jpg",
+    "thumb": "/static/images/thumbs/25.jpg",
+    "full": "/static/images/thumbs/25.jpg",
     "desc": "\"Bodegón con cristal\" || 70 X 60 cm || Óleo"
   },
   {
     "width": "282",
-    "thmub": "images/thumbs/26.jpg",
-    "full": "images/thumbs/26.jpg",
+    "thumb": "/static/images/thumbs/26.jpg",
+    "full": "/static/images/thumbs/26.jpg",
     "desc": "\"Profético\" || 40 X 30 cm || Óleo"
   },
   {
     "width": "384",
-    "thmub": "images/thumbs/27.jpg",
-    "full": "images/thumbs/27.jpg",
+    "thumb": "/static/images/thumbs/27.jpg",
+    "full": "/static/images/thumbs/27.jpg",
     "desc": "\"Arrollo\" || 120 X 85 cm || Acrílico"
   }
 ]
