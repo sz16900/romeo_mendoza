@@ -11,7 +11,11 @@ def index():
     return render_template('index.html')
 
 
+
 def page(name):
+    """Dynamically create & register a route for a given file/route name
+    We do this since currently the logic for each of the 5 sub-pages is identical.
+    """
     def handler():
         with open('data/{}.json'.format(name)) as fp:
             arts = json.load(fp)
