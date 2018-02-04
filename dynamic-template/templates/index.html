@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block body %}
+<div id="wrapper">
+
+	<div id="main">
+		<div id="reel">
+
+			<!-- Header Item -->
+
+				<a href= "index.html"><div id="header" class="item" data-width="450">
+
+				</div></a>
+
+			<!-- Thumb Items -->
+
+				<article class="item thumb" data-width="300">
+					<h2>Hiperrealismo</h2>
+					<a href="hiperrealismo.html"><img src="/static/images/thumbs/02.jpg" alt=""></a>
+				</article>
+
+				<article class="item thumb" data-width="320">
+					<h2>Dibujos</h2>
+					<a href="bocetos.html"><img src="/static/images/thumbs/62.jpg" alt=""></a>
+				</article>
+
+				<article class="item thumb" data-width="292">
+					<h2>Surrealismo</h2>
+					<a href="surrealismo.html"><img src="/static/images/thumbs/08.jpg" alt=""></a>
+				</article>
+
+				<article class="item thumb" data-width="282">
+					<h2>Otros</h2>
+					<a href="otros.html"><img src="/static/images/thumbs/25.jpg" alt=""></a>
+				</article>
+
+				<article class="item thumb" data-width="282">
+					<h2>Taller</h2>
+					<a href="taller.html"><img src="/static/images/thumbs/70.jpg" alt=""></a>
+				</article>
+
+		</div>
+	</div>
+
+{% include 'footer.html' %}
+{% endblock %}

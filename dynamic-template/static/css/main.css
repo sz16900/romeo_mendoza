@@ -144,7 +144,7 @@
 	}
 
 		.item.thumb h2 {
-			position: absolute; 
+			position: absolute;
 			bottom: 0;
 			left: 0;
 			background: #1a1f2c;
@@ -196,11 +196,11 @@
 		position: relative;
 		color: #fff;
 		cursor: default;
-	
+
 		background-image: url("images/firma.png");
 		background-repeat: no-repeat;
 		background-size: 100%, 100%;
-		
+
 }
 
 		#header p {
@@ -218,10 +218,10 @@
 			}
 
 			body {
-				background-image: url("images/overlay.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("../../images/bg.jpg");
-				background-image: url("images/overlay.png"), -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("../../images/bg.jpg");
-				background-image: url("images/overlay.png"), -ms-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("../../images/bg.jpg");
-				background-image: url("images/overlay.png"), linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("../../images/bg.jpg");
+				background-image: url("images/overlay.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("/static/images/bg.jpg");
+				background-image: url("images/overlay.png"), -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("/static/images/bg.jpg");
+				background-image: url("images/overlay.png"), -ms-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("/static/images/bg.jpg");
+				background-image: url("images/overlay.png"), linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65)), url("/static/images/bg.jpg");
 				background-position: top left, bottom left, auto;
 				background-size: auto, 100% 100%, cover;
 				background-repeat: repeat, no-repeat, auto;
@@ -305,7 +305,7 @@
 				#header h1 {
 					font-size: 3em;
 					line-height: 1em;
-				
+
 					font-family:  cursive;
 }
 
@@ -529,7 +529,7 @@
 
 				#header h1 {
 					font-size: 2em;
-				
+
 					font-family: cursive;
 }
 

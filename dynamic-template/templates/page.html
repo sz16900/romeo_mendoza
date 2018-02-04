@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block body %}
+
+		<div id="wrapper">
+
+			<div id="main">
+				<div id="reel">
+
+					<!-- Header Item -->
+
+						<a href= "index.html"><div id="header" class="item" data-width="450">
+
+						</div></a>
+
+					{% for image in arts %}
+						<article class="item thumb" data-width="{{ image.width }}">
+							<h2>{{ image.desc|safe }}</h2>
+							<a href="{{ image.full }}" class="image"><img src="{{ image.thumb }}" alt=""></a>
+						</article>
+					{% else %}
+					{% endfor %}
+
+				</div>
+			</div>
+{% include 'footer.html' %}
+{% endblock %}
