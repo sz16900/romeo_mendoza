@@ -1,8 +1,8 @@
 from flask import render_template, flash, redirect, url_for, request
-from fullapp import app
-from fullapp.forms import LoginForm
+from fullapp import app, db
+from fullapp.forms import LoginForm, PostForm
 from flask_login import current_user, login_user, logout_user, login_required
-from fullapp.models import User
+from fullapp.models import User, Post
 
 @app.route('/')
 
@@ -46,6 +46,17 @@ def logout():
     logout_user()
     return redirect(url_for('index'))
 
-@app.route('/yak')
-def yak():
-    print 'hello world!'
+@app.route('/post', methods=['GET', 'POST'])
+# @login_required
+def post():
+    if current_user.is_authenticated:
+        # return redirect(url_for('post'))
+        form = PostForm()
+        if form.validate_on_submit():
+            post = Post(title=form.title.data, body=form.body.data)
+            db.session.add(post)
+            db.session.commit()
+            return redirect(url_for('index'))
+        return render_template('post.html', title='Post', form=form)
+    else:
+        return redirect(url_for('login'))
